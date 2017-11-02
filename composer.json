@@ -1,0 +1,16 @@
+{
+  "name": "al3x1/vk_sdk",
+  "description": "Easy requests to VK for PHP",
+  "authors": [
+    {
+      "name": "AL3X1",
+      "homepage": "https://github.com/AL3X1",
+      "role": "Founder"
+    },
+    {
+      "name": "DemianFS",
+      "homepage": "https://github.com/DemianFS",
+      "role": "Developer"
+    }
+  ]
+}
